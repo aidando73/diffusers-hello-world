@@ -15,5 +15,5 @@ source tools/build/python/third_party/.venv/bin/activate
 
 huggingface-cli login
 
-jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --notebook-dir ~/work/hello-world
+jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --notebook-dir ~/work/diffusers-hello-world
 
